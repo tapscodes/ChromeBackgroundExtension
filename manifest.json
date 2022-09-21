@@ -8,11 +8,11 @@
         "48": "/Images/Icon_48.png",
         "128": "/Images/Icon_128.png"
     },
-    "page_action": {
+    "action": {
         "default_icon": {
             "16": "/Images/Icon_16.png",
-        "48": "/Images/Icon_48.png",
-        "128": "/Images/Icon_128.png"
+            "48": "/Images/Icon_48.png",
+            "128": "/Images/Icon_128.png"
         }
     },
     "content_scripts": [{
