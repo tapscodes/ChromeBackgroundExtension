@@ -13,7 +13,9 @@
             "16": "/Images/Icon_16.png",
             "48": "/Images/Icon_48.png",
             "128": "/Images/Icon_128.png"
-        }
+        },
+        "default_popup": "popup.html",
+        "default_title": "Options"
     },
     "content_scripts": [{
         "matches": ["*://www.google.com/*"],
