@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Grey Google Background",
     "description": "Changes google background",
-    "version": "0.1",
+    "version": "1.0",
     "icons": {
         "16": "/Images/Icon_16.png",
         "48": "/Images/Icon_48.png",
