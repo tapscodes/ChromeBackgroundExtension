@@ -14,5 +14,9 @@
         "48": "/Images/Icon_48.png",
         "128": "/Images/Icon_128.png"
         }
-    }
+    },
+    "content_scripts": [{
+        "matches": ["https://www.google.com/*"],
+        "css": ["bckg.css"]
+    }]
   }
