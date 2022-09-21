@@ -1,5 +1,18 @@
 {
     "manifest_version": 3,
-    "name": "Background",
-    "version": "v0.0"
+    "name": "Grey Google Background",
+    "description": "Changes google background",
+    "version": "v0.0",
+    "icons": {
+        "16": "",
+        "48": "",
+        "128": ""
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "",
+            "48": "",
+            "128": ""
+        }
+    }
   }
