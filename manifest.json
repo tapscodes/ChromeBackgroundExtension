@@ -4,15 +4,15 @@
     "description": "Changes google background",
     "version": "v0.0",
     "icons": {
-        "16": "",
-        "48": "",
-        "128": ""
+        "16": "/Images/Icon_16.png",
+        "48": "/Images/Icon_48.png",
+        "128": "/Images/Icon_128.png"
     },
     "page_action": {
         "default_icon": {
-            "16": "",
-            "48": "",
-            "128": ""
+            "16": "/Images/Icon_16.png",
+        "48": "/Images/Icon_48.png",
+        "128": "/Images/Icon_128.png"
         }
     }
   }
